@@ -1,7 +1,7 @@
 ### 👋🏻 Hello! Thanks for checking out everything I've been working on.
 
 ## Plate
-`📲 Coming soon to the App Store`
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/plate-plate-it-or-slate-it/id1670796474)
 
 Discover the perfect dish before you even step foot in a restaurant with Plate, the ultimate foodie companion. Plate is your gateway to a world of delicious delights. Swipe through mouthwatering food photos from local menus, making it easier than ever to find the perfect dining spot. No more guessing or settling for average meals—Plate ensures every bite is a delightful treat.
 
