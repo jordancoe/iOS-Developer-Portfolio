@@ -29,8 +29,9 @@ Discover the perfect dish before you even step foot in a restaurant with Plate, 
 Shaking the device, just as you would the original Magic 8 Ball, reveals your fate. Users can go into the app settings and add to or remove the possible results.
 
 <p align="center">
-   <img src="https://github.com/jordancoe/iOS-Developer-Portfolio/assets/23445024/30085890-1865-422c-9bcb-2884588ff7a4", width="200"/>
+   <img src="https://github.com/jordancoe/iOS-Developer-Portfolio/assets/23445024/5fafd95b-67a6-4b7f-9499-d26aed134c75", width="200"/>
 </p>
+
 
 **Frameworks**
 - 📱 UIKit
