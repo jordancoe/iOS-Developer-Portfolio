@@ -25,6 +25,24 @@ Discover the perfect dish before you even step foot in a restaurant with Plate, 
 - 🎬 Animations
 
 
+## QRCoder
+[`📲 Coming Soon to the App Store`]()
+
+Seamlessly and easily create a QR Code.
+
+<p align="center">
+   <img src="https://github.com/jordancoe/iOS-Developer-Portfolio/assets/23445024/9d7dccb6-99d8-4c47-b599-0af08cdde5b0", width="200"/>
+   <img src="https://github.com/jordancoe/iOS-Developer-Portfolio/assets/23445024/ea9dd198-ae42-44c1-a626-c633ad84193d", width="200"/>
+</p>
+
+**Frameworks**
+- 📱 SwiftUI
+- 🛜 Network
+- 💽 UserDefaults
+- 💵 RevenueCat
+- 🗂️ MVVM
+
+
 ## Magic Ball
 Shaking the device, just as you would the original Magic 8 Ball, reveals your fate. Users can go into the app settings and add to or remove the possible results.
 
