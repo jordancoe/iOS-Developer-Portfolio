@@ -40,7 +40,6 @@ Seamlessly and easily create a QR Code.
 - 🛜 Network
 - 💽 UserDefaults
 - 💵 RevenueCat
-- 🗂️ MVVM
 
 
 ## Magic Ball
