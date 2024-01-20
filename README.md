@@ -1,5 +1,21 @@
 ### 👋🏻 Hello! Thanks for checking out everything I've been working on.
 
+## Timely
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/timely-the-spatial-clock/id6476117550)
+
+Elevate your landscape with Timely - The Spatial Clock. Simply select the clock that fits your theme and place it into your environment.
+
+<p align="center">
+      <img src="https://github.com/jordancoe/iOS-Developer-Portfolio/assets/23445024/317592a0-8a8b-449c-9776-a8374669cc87", width="400"/>
+   <img src="https://github.com/jordancoe/iOS-Developer-Portfolio/assets/23445024/086b69c8-623a-4092-ac5c-fd455b6f1ac6", width="400"/>
+</p>
+
+**Frameworks**
+- 📱 SwiftUI
+- 🔀 Combine
+- 🥽 Vision Pro
+
+  
 ## Plate
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/plate-plate-it-or-slate-it/id1670796474)
 
