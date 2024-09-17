@@ -1,5 +1,24 @@
 ### 👋🏻 Hello! Thanks for checking out everything I've been working on.
 
+## Dateminder
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/dateminder-event-reminders/id6480020164)
+
+Dateminder is a simple app that aggregates important dates in your life. With the option to seamlessly sync with Contacts, you'll be on the right track in a breeze.
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/e1c89d0c-8f87-481e-895c-ed0ad9590fa9", width="200"/>
+  <img src="https://github.com/user-attachments/assets/2396d50c-5d92-4659-854a-5c2b4827d6db", width="200"/>
+   <img src="https://github.com/user-attachments/assets/2093bc3e-60ac-4a6e-8459-e54525111909", width="200"/>
+</p>
+
+**Frameworks**
+- 📱 SwiftUI
+- 🔀 Combine
+- 🎁 EventKit
+- 🎛️ WidgetKit
+- 💽 SwiftData
+  
+
 ## Timely
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/timely-the-spatial-clock/id6476117550)
 
