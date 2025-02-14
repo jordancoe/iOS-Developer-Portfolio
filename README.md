@@ -66,9 +66,9 @@ Discover the perfect dish before you even step foot in a restaurant with Plate, 
 Seamlessly and easily create a QR Code.
 
 <p align="center">
-   <img src="https://github.com/jordancoe/iOS-Developer-Portfolio/assets/23445024/7f98b5c1-d5ea-448f-9a67-318cc282a236", width="200"/>
-   <img src="https://github.com/jordancoe/iOS-Developer-Portfolio/assets/23445024/fac7337f-05c5-4727-a69a-fff92e270b48", width="200"/>
-   <img src="https://github.com/jordancoe/iOS-Developer-Portfolio/assets/23445024/b23a8cd2-691c-4c5c-bfa0-886d8d1b9efe", width="200"/>
+  <img src="https://github.com/user-attachments/assets/859eacf8-3e6c-41fc-812b-1981270eb984", width="200"/>
+  <img src="https://github.com/user-attachments/assets/5887285f-256e-4aa8-828a-70726eb5cc79", width="200"/>
+  <img src="https://github.com/user-attachments/assets/efba39f7-64d4-49b3-b7dd-a62262cb3b86", width="200"/> 
 </p>
 
 **Frameworks**
