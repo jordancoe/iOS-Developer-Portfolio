@@ -6,11 +6,11 @@
 Dateminder is a simple app that aggregates important dates in your life. With the option to seamlessly sync with Contacts, you'll be on the right track in a breeze.
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/e1c89d0c-8f87-481e-895c-ed0ad9590fa9", width="200"/>
-  <img src="https://github.com/user-attachments/assets/2396d50c-5d92-4659-854a-5c2b4827d6db", width="200"/>
-   <img src="https://github.com/user-attachments/assets/2093bc3e-60ac-4a6e-8459-e54525111909", width="200"/>
+  <img src="https://github.com/user-attachments/assets/2bbc75e3-db3f-4057-8180-48f67cd9de2e", width="200"/>
+  <img src="https://github.com/user-attachments/assets/e9cdb9ce-7e5e-4867-9364-f6f7cf92523a", width="200"/>
+  <img src="https://github.com/user-attachments/assets/04696321-3a2b-4e37-9512-50344267be96", width="200"/>
+  <img src="https://github.com/user-attachments/assets/583e6f60-50b4-4aea-8cff-d95a9135a9e8", width="200"/>
 </p>
-
 **Frameworks**
 - 📱 SwiftUI
 - 🔀 Combine
